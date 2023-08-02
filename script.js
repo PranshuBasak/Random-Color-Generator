@@ -13,6 +13,11 @@ function generators(){
     hex.innerText = "#" + hexcolor;
 }
 
+
+
+
+
+
 generators()
 
 
